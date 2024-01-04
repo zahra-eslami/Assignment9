@@ -34,7 +34,10 @@ Telebot library (pip install Telebot)
 To get acquainted with the functionalities and operations of the bot, refer to the attached GIF file demonstrating the bot's usage.
 
 
-
 <img src="MyTeleBot.gif"  />
 
 
+
+
+---
+This program is in a testing phase and requires further development.
