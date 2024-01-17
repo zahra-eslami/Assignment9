@@ -10,11 +10,11 @@ import qrcode
 url = "https://hafez.p.rapidapi.com/fal"
 
 headers = {
-    "X-RapidAPI-Key": "09bad341bfmsha7a8753d2bd9417p1d122bjsncf03b722f3d1",
-    "X-RapidAPI-Host": "hafez.p.rapidapi.com"
+    "X-RapidAPI-Key": " ",
+    "X-RapidAPI-Host": " "
 }
 
-bot = telebot.TeleBot("6345852814:AAH7VxaXQpjCN2uQryPsNxYnljX-CFTtEdM") 
+bot = telebot.TeleBot("my telebot address") 
 game_number = None  
 flag=None
 win=False
